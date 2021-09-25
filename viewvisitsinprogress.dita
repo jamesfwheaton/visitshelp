@@ -2,6 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="viewvisitsinprogress">
     <title>View Visits in Progress</title>
+    <prolog><metadata audience="new"><category>visits</category></metadata></prolog>
     <taskbody>
         <context>
             <p>You can view a list of all visits currently in progress from the Visit manager.</p>

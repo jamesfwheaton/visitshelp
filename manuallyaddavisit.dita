@@ -2,6 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="manuallyaddavisit">
     <title>Manually Add a Visit</title>
+    <prolog><metadata audience="new"><category>visits</category></metadata></prolog>
     <taskbody>
         <context>
             <p>Depending on your agency's configuration, visits may be automatically or manually

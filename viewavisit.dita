@@ -2,6 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="viewavisit">
     <title>View a Visit</title>
+    <prolog>
+        <metadata audience="new">
+            <category>visits</category>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>You can view all visits in the system from the Visit manager.</p>
