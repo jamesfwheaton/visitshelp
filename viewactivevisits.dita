@@ -2,6 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="viewactivevisits">
     <title>View Active Visits</title>
+    <prolog><metadata audience="new"><category>visits</category></metadata></prolog>
     <taskbody>
         <context>
             <p>You can view a list of all visits that have not yet been completed from the Visit manager.</p>

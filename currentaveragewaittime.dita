@@ -2,7 +2,13 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="currentaveragewaittime">
     <title>View the Current Average Wait Time</title>
+    <prolog>
+        <metadata audience="new">
+            <category>visits</category>
+        </metadata>
+    </prolog>
     <taskbody>
+
         <context>
             <p>You can view the average wait time for all visits that are unassigned. This summary
                 includes the amount of time that a visit has been waiting and the amount of time
@@ -22,12 +28,13 @@
                 <cmd>The average wait time is displayed on the Active Visit Summary panel next to
                     the Clock <image href="images/clock_icon.png" height="12pt"/>icon</cmd>
                 <info><note>You can refresh the statistics in the Active Visit Summary panel by
-                        clicking the window name in the sidebar, or by pressing the <uicontrol>f5</uicontrol> key on
-                        your keyboard.</note></info>
+                        clicking the window name in the sidebar, or by pressing the
+                            <uicontrol>f5</uicontrol> key on your keyboard.</note></info>
             </step>
             <step>
-                <cmd>Click the <uicontrol>minutes average wait time</uicontrol> hyperlink. A window is displayed,
-                    listing all visits currently contributing to the average wait time.</cmd>
+                <cmd>Click the <uicontrol>minutes average wait time</uicontrol> hyperlink. A window
+                    is displayed, listing all visits currently contributing to the average wait
+                    time.</cmd>
             </step>
         </steps>
     </taskbody>
