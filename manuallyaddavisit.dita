@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="manuallyaddavisit">
+    <title>Manually Add a Visit</title>
+    <taskbody>
+        <context>
+            <p>Depending on your agency's configuration, visits may be automatically or manually
+                added to the system. If needed, you can manually add a visit from the Visit manager.</p>
+            <p>To manually add a visit from the Visit manager:</p>
+        </context>
+        <steps>
+            <step conref="reusetopics/reusetopics.dita#reusetopics/accessvisitmanager">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>In the Add Items panel, click the <uicontrol>Add Visit</uicontrol>
+                    hyperlink.</cmd>
+            </step>
+            <step>
+                <cmd>Complete the fields, as necessary.</cmd>
+            </step>
+            <step>
+                <cmd>Click the <uicontrol>Submit</uicontrol> button. The visit is added to the
+                    system.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

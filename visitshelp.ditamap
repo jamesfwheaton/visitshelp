@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Visits Help</title>
+    <topicmeta><category>reference map</category></topicmeta>
+    <topicref href="visitsconcept.dita"/>
+    <topicref href="viewavisit.dita"/>
+    <topicref href="viewvisitinformation.dita"/>
+    <topicref href="viewactivevisits.dita"/>
+    <topicref href="viewvisitsinprogress.dita"/>
+    <topicref href="currentaveragewaittime.dita"/>
+    <topicref href="manuallyaddavisit.dita"/>
+</map>

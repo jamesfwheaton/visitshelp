@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Visits">
+    <title>Visits</title>
+    <conbody>
+        <p>The Visit manager allows users to track, manage, and respond to phone calls, chat
+            sessions, and walk-in or in-person meetings with customers. These interactions are
+            recorded in the system as visits. Users add visit actions to visits to record customers'
+            questions and to perform various actions in the system, as necessary.</p>
+    </conbody>
+</concept>

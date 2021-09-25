@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="viewvisitinformation">
+    <title>View Visit Information from the Customer or Account Springboard</title>
+    <taskbody>
+        <context>
+            <p>You can view visits associated with a customer or account from the Customer or
+                Account springboards, respectively.</p>
+            <p>To view visit information for a customer or account:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Access the appropriate Customer or Account springboard.</cmd>
+            </step>
+            <step>
+                <cmd>View the <uicontrol>Visits</uicontrol> tab (under Letters). A list of active
+                    and historical visits for the customer is displayed.</cmd>
+            </step>
+            <step>
+                <cmd>Click the hyperlink in the <uicontrol>Visit</uicontrol> column. The Visit
+                    springboard is displayed.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

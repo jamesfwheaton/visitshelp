@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="viewactivevisits">
+    <title>View Active Visits</title>
+    <taskbody>
+        <context>
+            <p>You can view a list of all visits that have not yet been completed from the Visit manager.</p>
+            <p>To view a list of all active visits:</p>
+        </context>
+        <steps>
+            <step conref="reusetopics/reusetopics.dita#reusetopics/accessvisitmanager">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>In the Active Visit Summary panel, click the <uicontrol>active visits</uicontrol> hyperlink. A window is displayed, listing all active visits.</cmd>
+                <info><note>You can refresh the statistics in the Active Visit Summary panel by clicking the window name in the sidebar, or by pressing the <uicontrol>F5</uicontrol> key on your keyboard.</note></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

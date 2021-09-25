@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="viewavisit">
+    <title>View a Visit</title>
+    <taskbody>
+        <context>
+            <p>You can view all visits in the system from the Visit manager.</p>
+            <p> To view a visit from the Visit manager:</p>
+        </context>
+        <steps>
+            <step conref="reusetopics/reusetopics.dita#reusetopics/accessvisitmanager">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>View the <uicontrol>Summary</uicontrol> tab.</cmd>
+            </step>
+            <step>
+                <cmd>You can view visits by:</cmd>
+                <choices>
+                    <choice>Clicking the hyperlinks on the Active Visit Summary panel to: <ul>
+                            <li>View active visits;</li>
+                            <li>View visits in progress;</li>
+                            <li>View visits waiting to be answered;</li>
+                            <li>View the current average wait time.</li>
+                        </ul></choice>
+                    <choice>Clicking the hyperlinks on the summary panel to view a summary of
+                        visits.</choice>
+                </choices>
+            </step>
+        </steps>
+    </taskbody>
+</task>
